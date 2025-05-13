@@ -54,17 +54,14 @@
   </p>
 
 ### 🚀 Projects
-- **[BUBI Server](https://github.com/bait-py/bubiserver)** – Multi-functional Raspberry Pi server  
-  ![BUBI Server](https://github.com/bait-py/bubiserver/blob/main/BUBIServerResult1.jpg)
 
-- **[NyoloqChallenge](https://github.com/bait-py/nyoloqchallenge)** – League of Legends stat tracker  
-  ![LoL Stats Preview](https://raw.githubusercontent.com/bait-py/nyoloqchallenge/main/images/leaguestats.jpg)
 
-- **[Temas JO-EL](https://github.com/bait-py/temasjoel)** – UI fixes for education platform  
-  ![Tema Atom One Dark](https://raw.githubusercontent.com/bait-py/temasjoel/main/images/atomdark.jpg)
+
+
+
 
 ### 📈 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bait-py&show_icons=true&locale=en" alt="bait-py" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Waffle639&show_icons=true&locale=en" alt="Waffle639" /></p>
 
 ### 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jofre-cuerda-santaul%C3%A0ria-39981133a/)
