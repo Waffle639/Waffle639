@@ -73,7 +73,7 @@ A social elimination game where each player receives by email the name of their 
 <img src="https://github.com/user-attachments/assets/5dd10b3d-4e93-4c22-878b-cad7cb393c75" width="45%" style="border:1px solid #ddd">  
 <img src="https://github.com/user-attachments/assets/0856c668-3c26-4ff6-a2eb-8b0e2a18b8b7" width="45%" style="border:1px solid #ddd">  
 
-[View code →](https://github.com/tu-usuario/killer-kiss)
+[View code →]([https://github.com/Waffle639/Killer-Kiss)
 
 ---
 ### 📈 GitHub Stats
