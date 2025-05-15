@@ -65,6 +65,17 @@ Command-line music player and organizer
 
 [View code →](https://github.com/Waffle639/GestorMusical)  
 
+#### 💋 Killer Kiss  
+**Social Game · Java · Email · JSON**  
+A social elimination game where each player receives by email the name of their target. The goal is to "kill" (kiss) the target without being seen by others. Players are assigned in a closed circle, and all data (games, players, rankings) is stored in JSON.
+
+🖼️ **Screenshots**:  
+<img src="https://github.com/user-attachments/assets/5dd10b3d-4e93-4c22-878b-cad7cb393c75" width="45%" style="border:1px solid #ddd">  
+<img src="https://github.com/user-attachments/assets/0856c668-3c26-4ff6-a2eb-8b0e2a18b8b7" width="45%" style="border:1px solid #ddd">  
+
+[View code →](https://github.com/tu-usuario/killer-kiss)
+
+---
 ### 📈 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Waffle639&show_icons=true&locale=en" alt="Waffle639" /></p>
 
