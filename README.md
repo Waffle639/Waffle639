@@ -106,14 +106,3 @@ Notebooks included for analysis, training, and testing.
 
 **Code:** https://github.com/Waffle639/LoL-AI
 
----
-
-## 🎵 Music Manager (Terminal UI)
-**Java · JSON · XML · CLI Player**
-
-Screenshots  
-<img src="https://github.com/user-attachments/assets/0d27a7b5-cf5d-431b-9bad-f8827cc97f90" width="45%">
-<img src="https://github.com/user-attachments/assets/0dae3102-e822-4192-a3c5-69a9d123e658" width="45%">
-
-**Code:** https://github.com/Waffle639/GestorMusical
-
