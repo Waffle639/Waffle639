@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/jofre-cuerda-562b18387/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://monkeytype.com/profile/Jofrix">
+  <a href="https://monkeytype.com/profile/JofreCuerda">
     <img src="https://img.shields.io/badge/Monkeytype-FFD000?style=for-the-badge&logo=monkeytype&logoColor=black" />
   </a>
   <a href="https://github.com/Waffle639">
