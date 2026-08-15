@@ -17,7 +17,6 @@
 
 ### 🛠️ Tech Stack
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,sklearn,pytorch,java,dotnet,supabase,mysql,postgres,git,docker" />
@@ -44,7 +43,7 @@ Notebooks included for analysis, training, and testing.
 
 --- 
 
-### ✈️ Aviation RAG Agent
+### Aviation RAG Agent <img src="https://github.com/user-attachments/assets/c96719ca-b630-4bb3-9fc6-f0a36e4d8f31" width="200" align="up">
 **Python · Supabase (pgvector) · OpenAI embeddings**
  
 A retrieval-augmented agent that answers technical questions about specific aircraft using official manuals and spec sheets. Built to get every layer of a real RAG stack right.
